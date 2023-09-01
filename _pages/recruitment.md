@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Open positions
-
 Thank you for your interest in joining the PersistLab. 
 
 We are always looking for new group members with passion, talent, and grit who are interested in exploring and developing novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistance, and intelligent environments.
