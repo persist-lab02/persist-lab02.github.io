@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<font color="red" size ="4">I am working on this page. Vai if you want to do something please let me know. </font>
+
 We are a dynamic research group at the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/). Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environments.
 
 
