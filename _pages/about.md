@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Persist Lab!!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p align="justify">
+We are a dynamic research group at the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/). Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environment
+</p> 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## <font color="#00cc66"> News and Announcements </font>
+<div style="height: 500px; overflow: auto;">
+<pre>
+<span style="color:rgb(201, 76, 76)">15 July,23</span>   One <a href="https://arxiv.org/abs/2301.11508"><font color="#cc00ff">paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>.
+<span style="color:rgb(201, 76, 76)">20-23 Nov,22</span> Presented our <a href="https://aclanthology.org/2022.aacl-srw.5/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://www.aacl2022.org/Program/student-research-workshop">AACL-SRW 2022</a>.
+<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Awarded Presidential Graduate Fellowship from Dartmouth.
+<span style="color:rgb(201, 76, 76)">12 Sep,22</span>    Joined <a href="https://home.dartmouth.edu/">Dartmouth</a> to pursue my PhD in CS.
+<span style="color:rgb(201, 76, 76)">27 Jun,22</span>    Promoted to Assitant Professor in Dept. of CSE, CUET. Feeling super happy!!!
+<span style="color:rgb(201, 76, 76)">20-25 Jun,22</span> Virtually attended <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> and presented our paper <a href="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.165.pdf"><font color="#cc00ff">MemoSen</font></a>
+<span style="color:rgb(201, 76, 76)">17 Jun,22</span>    Our journal on Multimodal Learning accepted at <a href="https://www.journals.elsevier.com/journal-of-king-saud-university-computer-and-information-sciences">JKSU</a> Journal.<font color= "#f00">[IF: 13.437]</font> Feeling awesome!!! 
+<span style="color:rgb(201, 76, 76)">22-27 May,22</span> Received <b>D&I Award</b> as a support to attend and present our papers at <a href="https://www.2022.aclweb.org/conference-programme">ACL-2022</a>.
+<span style="color:rgb(201, 76, 76)">6 Apr,22</span>     One paper accepted at <a href="https://lcs2.iiitd.edu.in/CONSTRAINT-2022/">CONSTRAINT@ACL-2022</a>.
+<span style="color:rgb(201, 76, 76)">4 Apr,22</span>     One paper accepted at <a href="https://lrec2022.lrec-conf.org/en/">LREC-2022</a> main conference.
+<span style="color:rgb(201, 76, 76)">26 Mar,22</span>    4 shared task papers accepted at <a href="https://www.2022.aclweb.org/workshops">ACL-2022</a> workshops.
+<span style="color:rgb(201, 76, 76)">02 Jan,22</span>    Feeling awesome!!! Successfully defended my Master's thesis.<a href="https://docs.google.com/presentation/d/1GTHUAWxUmvd5kgwl9xPERwYf0bnkLgbY/edit?usp=sharing&ouid=103730353445379362338&rtpof=true&sd=true"><font color="#cc00ff">[Slides]</font></a>
+<span style="color:rgb(201, 76, 76)">20 Dec,21</span>    <a href="https://github.com/omar-sharif03/BAD-Bangla-Aggressive-Text-Dataset"><font color="#cc00ff">Bengali Aggressive Text Dataset (BAD)</font></a> is released. Hope this dataset will pave the way for undesired/toxic language detection research in Bengali.
+<span style="color:rgb(201, 76, 76)">5 Dec,21</span>     Feeling super happy!!! <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231221018567"><font color="#cc00ff">Paper</font></a> accepted at <a href="https://www.sciencedirect.com/journal/neurocomputing">Neurocomputing Journal</a>.<font color= "#f00">[IF: 5.719, HI: 143]</font>
+<span style="color:rgb(201, 76, 76)">7-11 Nov,21</span>  Received <b>D&I Award</b> and virtually attended <a href="https://2021.emnlp.org/">EMNLP-2021</a>.
+<span style="color:rgb(201, 76, 76)">5 Nov,21</span>     Two papers (<a href="https://link.springer.com/article/10.1007/s42979-021-00922-z"><font color="#cc00ff">Sentiment</font></a>, <a href="https://link.springer.com/article/10.1007/s42979-021-00913-0"><font color="#cc00ff">Emotion</font></a>) accepted in <a href="https://www.springer.com/journal/42979">SN Computer Science</a> journal.
+<span style="color:rgb(201, 76, 76)">1-6 Aug,21</span>   Virtually attended <a href="https://2021.aclweb.org/">ACL-2021</a>.
+<span style="color:rgb(201, 76, 76)">26 June,21</span>   Successfully organized <a href="https://cuetnlp.com/iwcaut2021/">International Workshop on Computational Analysis of Undesired Texts on Social Media</a>.
+<span style="color:rgb(201, 76, 76)">7 June,21</span>    Presented our <a href="https://aclanthology.org/2021.naacl-srw.19/"><font color="#cc00ff">paper</font></a> virtually at <a href="https://naacl2021-srw.github.io/">NAACL-SRW 2021</a>.
+<span style="color:rgb(201, 76, 76)">7 Apr,21</span>     Received <b>D&I Award</b> as a support to attend and present my work at <a href="https://2021.eacl.org/">EACL-2021</a>.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+</pre>
+</div>
