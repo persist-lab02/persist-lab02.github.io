@@ -1,1 +1,108 @@
+- name: Sarah Masud Preum
+  photo: sarahpreum.jpg
+  info: Assistant Professor
+  url: ""
+  group: 0
+  extlink: https://web.cs.dartmouth.edu/people/sarah-masud-preum
+  
 
+- name: Joseph Gatto
+  photo: bdd.jpg
+  info: PhD student, started 2020
+  url: ""
+  group: 1
+  
+- name: Parker Seegmiller
+  photo: parkerseegmiller.jpg
+  info: PhD student, started 2021
+  url: ""
+  group: 1
+  
+
+- name: Will Romano
+  photo: bdd.jpg
+  info: PhD student, started 2021
+  url: ""
+  group: 1
+  
+
+- name: Xu Tian
+  photo: xutian.jpg
+  info: PhD student, started 2021
+  url: ""
+  group: 1
+  
+
+- name: Lutz Lu
+  photo: lutzlu.jpg
+  info: Master
+  url: ""
+  group: 2
+  
+
+- name: Vasavi Garimella
+  photo: bdd.jpg
+  info: Undergraduate, class 2022
+  url: ""
+  group: 2
+
+- name: Dae Lim Chung
+  photo: bdd.jpg
+  info: Undergraduate, class 2022
+  url: ""
+  group: 2
+
+- name: Vasavi Garimella
+  photo: bdd.jpg
+  info: Undergraduate, class 2022
+  url: ""
+  group: 2
+
+- name: Garrett Johnston
+  photo: bdd.jpg
+  info: Undergraduate, class 2022
+  url: ""
+  group: 2
+
+- name: Burke Jaeger
+  photo: bdd.jpg
+  info: Undergraduate, class 2023
+  url: ""
+  group: 2
+
+- name: Love Tsai
+  photo: bdd.jpg
+  info: Undergraduate, class 2023
+  url: ""
+  group: 2
+
+- name: Zhanel Nugmanova
+  photo: bdd.jpg
+  info: Undergraduate, class 2023
+  url: ""
+  group: 2
+
+      
+- name: Dae Lim Chung
+  photo: lindsayliang.jpg
+  info: Bioinformatics Programmer II
+  url: lindsayliang
+  group: 3
+
+# - name: Donna Werling
+#   photo: donnawerling.jpg
+#   info: Postdoctoral Scholar
+#   url: donnawerling
+#   group: 8
+#   year: 2015-2019
+#   current: Assistant Professor of Genetics, University of Wisconsin-Madison
+#   extlink: https://werling.genetics.wisc.edu/
+  
+# - name: Joon An
+#   photo: joonan.jpg
+#   info: Postdoctoral Scholar
+#   url: joonan
+#   group: 8
+#   year: 2015-2019
+#   current: Assistant Professor, School of Biosystem and Biomedical Science, Korea University
+#   extlink: https://joonanlab.github.io/
