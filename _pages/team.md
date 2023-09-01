@@ -8,6 +8,7 @@ redirect_from:
 ## Faculty
 
 <h2>PhD Students</h2>
+
 <table class="table__tablenospace">
 	<tr>
 		<td class="table__tablenospace" align='center'><img src='/images/pics/bdd.jpg' style='height:200px;;width:200px'><br/>
