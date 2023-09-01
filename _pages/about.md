@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Persist Lab!!!"
+title: "Welcome to Persist Lab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-We are a dynamic research group at the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/). Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environment
+We are a dynamic research group at the <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a> at Dartmouth College. Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environment
 </p> 
 
 ## <font color="#00cc66"> News and Announcements </font>
