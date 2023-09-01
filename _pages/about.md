@@ -17,33 +17,34 @@ We are a dynamic research group at the <a href="https://web.cs.dartmouth.edu/">D
 ## <font> News and Announcements </font>
 <div style="height: 500px; overflow: auto;">
 
+<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font> Congratulations, Joey, for successfully passing his Research Presentation Exam (RPE).</font> <br/>
 
-<span style="color:rgb(201, 76, 76)">*21 August, 2023*</span><br/>
-Congratulations, Joey, for successfully passing his Research Presentation Exam (RPE).
+<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+</font> <br/>
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+</font> <br/>
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+</font> <br/>
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+</font> <br/>
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
 
-<span style="color:rgb(201, 76, 76)">*Jan 11, 22*</span>  <br/> 
-Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+
+<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+</font> <br/>
+
 </div>
 
 
