@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Persit Lab | Dartmouth"
 title_separator          : "-"
-name                     : &name "Persist Lab"
+name                     : &name "Sarah Masud Preum"
 description              : &description ""
 url                      : https://persist-lab02.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
