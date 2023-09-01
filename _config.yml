@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Persit Lab | Dartmouth"
+title                    : "Persist Lab | Dartmouth"
 title_separator          : "-"
 name                     : &name "Sarah Masud Preum"
 description              : &description ""
