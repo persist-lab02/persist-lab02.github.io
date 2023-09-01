@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TyO23NgAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "sarah.masud.preum@dartmouth.edu
+  email            : "sarah.masud.preum@dartmouth.edu"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://web.cs.dartmouth.edu/people/sarah-masud-preum"
   bitbucket        :
