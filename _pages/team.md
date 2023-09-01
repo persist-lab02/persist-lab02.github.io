@@ -1,8 +1,5 @@
 ---
 title: "Team Members"
-layout: gridlay
-excerpt: "PersistLab: Team members"
-sitemap: false
 author_profile: true
 permalink: /team/
 redirect_from: 
