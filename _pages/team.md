@@ -1,6 +1,5 @@
 ---
 title: "Our Team"
-layout: gridlay
 excerpt: ""
 author_profile: true
 permalink: /team/
@@ -27,8 +26,8 @@ redirect_from:
 
 <div class="col-sm-6 clearfix">
   <img src="/images/labs/sarahpreum.jpg" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  <i>{{ member.info }}</i>
+  <h4><a href="https://persist-lab02.github.io/" class="off">Sarah Masud Preum</a></h4>
+  <i> Director Persist-Lab</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
