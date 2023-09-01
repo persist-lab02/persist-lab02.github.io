@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<font color="red" size ="4">This website is under construction. Visit next week please.</font>
+
 <p align="justify">
 We are a dynamic research group at the <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a> at Dartmouth College. Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environment
 </p> 
