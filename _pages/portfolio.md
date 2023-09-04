@@ -36,10 +36,8 @@ I am interested in developing novel information extraction and fusion techniques
 	</div>
 </div>
 
-<br/>
 <div style="text-align: left;">
-	<img src='/images/logos/cmu_logo.png' alt='Image not Loading'
-	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
 	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
@@ -47,3 +45,11 @@ I am interested in developing novel information extraction and fusion techniques
 	</div>
 </div>
 
+<div style="text-align: left;">
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<div style="text-align: left">
+		<span> <b> University of Virginia </b> </span><br/>
+	  	<span>  [February 2020-Present] </span><br/>
+	  	<span> Department of <a href="https://engineering.virginia.edu/departments/computer-science" style="text-decoration: none"> Computer Science </a>.</span><br/>
+	</div>
+</div>
