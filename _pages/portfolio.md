@@ -21,19 +21,28 @@ I am interested in developing novel information extraction and fusion techniques
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
 	  	<span> Director, Persist Lab </span> <br/>
-	  	<span> Assistant Professor [xx-xx] </span><br/>
-		<span> Department of <a href="" style="text-decoration: none"> Computer Science </a>.</span><br/>
+	  	<span> Assistant Professor [February 2020-Present] </span><br/>
+		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
 </div>
 
-<div style="text-align: left; margin-top:30px">
-	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
+<div style="text-align: left; margin-top:20px">
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading'
 	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
-		<span> <b> Dartmouth College </b> </span><br/>
-	  	<span> Director, Persist Lab </span> <br/>
-	  	<span> Assistant Professor, Department of <a href="" style="text-decoration: none"> Computer Science </a>.</span><br/>
+		<span> <b> Carnegie Mellon University </b> </span><br/>
+	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
+	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
 </div>
 
 
+<div style="text-align: left; margin-top:20px">
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading'
+	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
+	<div style="text-align: left">
+		<span> <b> Carnegie Mellon University </b> </span><br/>
+	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
+	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
+	</div>
+</div>
