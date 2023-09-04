@@ -14,7 +14,7 @@ I am interested in developing novel information extraction and fusion techniques
 ## Experience and Education
 
 ---
-
+<div>
 <div style="text-align: left">
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
 	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
@@ -28,7 +28,7 @@ I am interested in developing novel information extraction and fusion techniques
 
 <div style="text-align: left; margin-top:20px">
 	<img src='/images/logos/cmu_logo.png' alt='Image not Loading'
-	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
+	style='width: 120px; height:120px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
 	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
@@ -45,4 +45,5 @@ I am interested in developing novel information extraction and fusion techniques
 	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
 	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
+</div>
 </div>
