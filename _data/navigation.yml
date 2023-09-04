@@ -18,12 +18,10 @@ main:
   - title: "Talks"
     url: /talks/    
 
-   - title: "Gallery"
-    url: /gallery/    
+  # - title: "Gallery"
+  #   url: /gallery/    
     
 
- 
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
     
