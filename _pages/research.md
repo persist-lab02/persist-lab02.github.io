@@ -28,7 +28,17 @@ Exome sequencing has revolutionized our ability to find the genes associated wit
     <img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 300px; float: left;margin-right: 30px; border: 10px'>
     <span> <b> Understanding the role of ASD genes </b> </span><br/>
     
-    <div style="text-align: justify">
-    The genes discovered through exome sequencing provide an entree into the biology of ASD, hopefully as a foundation for developing theraputics. The Sanders Lab takes two research approaches: 1) To consider ASD-associated genes en masse to look for patterns of convergence [State MW, Šestan N Science 2012](https://www.ncbi.nlm.nih.gov/pubmed/22984058); 2) To investigate the genes with the strongest evidence of ASD association, such as SCN2A in depth.
+  <div style="text-align: justify">
+    The genes discovered through exome sequencing provide an entree into the biology of ASD, hopefully as a foundation for developing theraputics. The Sanders   Lab takes two research approaches: 1) To consider ASD-associated genes en masse to look for patterns of convergence [State MW, Šestan N Science 2012]      (https://www.ncbi.nlm.nih.gov/pubmed/22984058); 2) To investigate the genes with the strongest evidence of ASD association, such as SCN2A in depth.
+  </div>
 </div>
+
+## Funding
+We are grateful for funding from the <a href=""  style="text-decoration: none;">NIH</a> and the <a href=""  style="text-decoration: none;"></a>, the <a href=""  style="text-decoration: none;" >Dartmouth</a>, and the <a href=""  style="text-decoration: none;" >Autism Science Foundation</a>.
+
+<div style="text-align: justify">
+<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
+<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
+<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
+<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
 </div>
