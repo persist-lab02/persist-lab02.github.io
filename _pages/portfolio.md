@@ -13,7 +13,6 @@ I am interested in developing novel information extraction and fusion techniques
 
 ## Experience and Education
 
----
 <div style="text-align: left">
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
 	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
@@ -26,7 +25,7 @@ I am interested in developing novel information extraction and fusion techniques
 	</div>
 </div>
 
-<div style="text-align: left">
+<div style="text-align: left; margin-top:30px">
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
 	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
@@ -36,7 +35,7 @@ I am interested in developing novel information extraction and fusion techniques
 	</div>
 </div>
 
-<div style="text-align: left">
+<div style="text-align: left; margin-top:30px">
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
 	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
