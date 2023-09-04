@@ -21,8 +21,8 @@ I am interested in developing novel information extraction and fusion techniques
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
 	  	<span> Director, Persist Lab </span> <br/>
-	  	<span> Assistant Professor [February 2020-Present] </span><br/>
-		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
+	  	<span> Assistant Professor [February 20xx-Present] </span><br/>
+		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science</a>.</span>
 	</div>
 </div>
 
@@ -31,8 +31,8 @@ I am interested in developing novel information extraction and fusion techniques
 	style='width: 120px; height:120px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
-	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
-	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
+	  	<span> Postdoctoral Fellow [February 20xx-Present] </span><br/>
+	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science</a>.</span>
 	</div>
 </div>
 
