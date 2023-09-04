@@ -1,14 +1,64 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Overview"
 permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+  .styimg {
+    	height:100px;
+   	width:80px;
+	border-radius: 10%;
+	border: none;
+	text-align: center;
+  }
+ .stytab{
+	text-align: center;
+	 border: none;
+ }
+.styaffil{
+	text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+	border: none;
+}
+.pauthor{
+	text-align: center;
+	color: brown;
+	font-size: 18px;
+	border: none;
+}
+
+	
+</style>
+<p align="justify">
+I am interested in developing novel information extraction and fusion techniques using applied machine learning with applications in 
+  smart health, personalized assistant, and intelligent environments. I build deep semantic inference models of multi-modal data generated 
+  from heterogeneous applications to provide interpretable and personalized decision support. My vision is to advance the fundamental techniques and theories for data-driven and knowledge-integrated information fusion to improve human-in-the-loop intelligent systems.
+</p> 
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2>Experience and Education</h2>
+
+<table class="table__tablenospace" style='border: none;'>
+	<tr style='border: none;'>
+		 <td class="stytab"><img class ="styimg" src='/images/pics/Dartmouth_Logo.png'> </td>
+     <td class="tabdata">
+	      <span class="styaffil"> Dartmouth College </span> <br/>
+ 	      <span class="pauthor"> Director, Persist Lab</span> <br/>
+  	    <span class="pauthor"> Assistant Professor, Computer Science</span> <br/>			
+     </td>
+	</tr>
+  
+  <tr style='border: none;'>
+		 <td class="stytab"><img class ="styimg" src='/images/pics/Dartmouth_Logo.png'> </td>
+     <td class="tabdata">
+	      <span class="styaffil"> Dartmouth College </span> <br/>
+ 	      <span class="pauthor"> Director, Persist Lab</span> <br/>
+  	    <span class="pauthor"> Assistant Professor, Computer Science</span> <br/>			
+     </td>
+	</tr>
+	
+</table>
 
