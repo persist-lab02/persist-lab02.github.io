@@ -37,8 +37,8 @@ Exome sequencing has revolutionized our ability to find the genes associated wit
 We are grateful for funding from the <a href=""  style="text-decoration: none;">NIH</a> and the <a href=""  style="text-decoration: none;"></a>, the <a href=""  style="text-decoration: none;" >Dartmouth</a>, and the <a href=""  style="text-decoration: none;" >Autism Science Foundation</a>.
 
 <div style="text-align: justify">
-<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
-<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
-<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
-<img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 250px; float: left;margin-right: 30px; border: 10px'>
+<img src='/images/logos/Logo_NIMH.png' alt='Image not Loading' style='width: 250px; float: left; margin:15px;  border: 10px'>
+<img src='/images/logos/Logo_BBRF.png' alt='Image not Loading' style='width: 250px; float: left; margin:15px;  border: 10px'>
+  <img src='/images/logos/Logo_SFARI.png' alt='Image not Loading' style='width: 250px; float: left; margin:15px;  border: 10px'>
+  <img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 250px; float: left; margin:15px;  border: 10px'>
 </div>
