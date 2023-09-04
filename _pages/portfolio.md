@@ -23,30 +23,32 @@ I am interested in developing novel information extraction and fusion techniques
 	  	<span> Assistant Professor [February 20xx-Present] </span><br/>
 		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science</a>.</span>
 	</div>
+	<br/>
 </div>
-<br/>
 
 <div style="text-align: left;">
-	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
 	  	<span> Director, Persist Lab </span> <br/>
 	  	<span> Assistant Professor [February 20xx-Present] </span><br/>
 		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science</a>.</span>
 	</div>
+	<br>
 </div>
 
 <div style="text-align: left;">
-	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
 	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
 	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
+	<br>
 </div>
 
 <div style="text-align: left;">
-	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/UVA_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> University of Virginia </b> </span><br/>
 	  	<span>  [February 2020-Present] </span><br/>
