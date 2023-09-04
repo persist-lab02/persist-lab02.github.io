@@ -4,6 +4,7 @@ title: "Overview"
 permalink: /portfolio/
 author_profile: true
 ---
+<font color="red" size ="4">Will change it appropriately after getting the information from Professor. </font>
 
 <p align="justify">
 I am interested in developing novel information extraction and fusion techniques using applied machine learning with applications in 
@@ -33,7 +34,7 @@ I am interested in developing novel information extraction and fusion techniques
 	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
 	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
-	<br>
+	<br/>
 </div>
 
 <div style="text-align: left;">
@@ -43,7 +44,7 @@ I am interested in developing novel information extraction and fusion techniques
 	  	<span>  Graduate Research/Teaching Assistant [February 20xx-Present] </span><br/>
 	  	<span> Department of <a href="https://engineering.virginia.edu/departments/computer-science" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
-	<br>
+	<br/>
 </div>
 
 <div style="text-align: left;">
@@ -53,5 +54,5 @@ I am interested in developing novel information extraction and fusion techniques
 	  	<span>  Bachelor of Science [February 20xx-Present] </span><br/>
 	  	<span> Department of <a href="https://cse.buet.ac.bd/" style="text-decoration: none"> Computer Science and Engineering </a>.</span><br/>
 	</div>
-	<br>
+	<br/>
 </div>
