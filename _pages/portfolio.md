@@ -16,7 +16,19 @@ I am interested in developing novel information extraction and fusion techniques
 ---
 <div style="text-align: left">
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
-	style='width: 90px; height:80px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
+	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
+	<div style="text-align: left">
+		<span> <b> Dartmouth College </b> </span><br/>
+	  	<span> Director, Persist Lab </span> <br/>
+	  	<span> Assistant Professor, Department of <a href="" style="text-decoration: none"> Computer Science </a>.</span><br/>
+		<span> Director, Persist Lab </span> <br/>
+	  	<span> Assistant Professor, Department of <a href="" style="text-decoration: none"> Computer Science </a>.</span><br/>
+	</div>
+</div>
+
+<div style="text-align: left">
+	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
+	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
 	  	<span> Director, Persist Lab </span> <br/>
@@ -25,23 +37,10 @@ I am interested in developing novel information extraction and fusion techniques
 </div>
 
 <div style="text-align: left">
-	<div>
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
-	style='width: 90px; height:80px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
-	</div>
-	
+	style='width: 100px; height:100px; float: left;margin-right: 30px; margin-bottom:30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
-	  	<span> Director, Persist Lab </span> <br/>
-	  	<span> Assistant Professor, Department of <a href="" style="text-decoration: none"> Computer Science </a>.</span><br/>
-	</div>
-</div>
-
-<div style="text-align: left">
-	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading'
-	style='width: 90px; height:80px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
-	<span> <b> Dartmouth College </b> </span><br/>
-	<div style="text-align: left">
 	  	<span> Director, Persist Lab </span> <br/>
 	  	<span> Assistant Professor, Department of <a href="" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
