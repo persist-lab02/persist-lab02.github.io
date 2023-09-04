@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<font color="red" size ="4">I am working on this page. Vai if you want to do something please let me know. </font>
-
 We are a dynamic research group at the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/). Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environments.
 
 
-## Research Highlights
+## Research Projects
+
+<div style="text-align: justify">
 <img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 300px; float: left;margin-right: 30px; border: 10px'>
 
 ### Gene discovery in autism spectrum disorder and other developmental disorders
 <div style="text-align: justify">
 Exome sequencing has revolutionized our ability to find the genes associated with autism spectrum disorder (ASD) and other severe developmental disorders. Four papers, published concurrently in 2012, showed an excess of de novo mutations that disrupt genes in cases compared to controls and Dr. Sanders, working in Dr. State's lab at Yale, was the first author of one of these. This paper also demonstrated that observing disruptive de novo mutations in the same gene across multiple cases could be used to establish genome-wide association with ASD, and this method was used to identify the voltage-gated sodium channel SCN2A as one of the most frequent causes of ASD. 
+</div>
 </div>
 
 <img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 300px; float: left;margin-right: 30px; border: 10px'>
