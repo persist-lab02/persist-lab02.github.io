@@ -31,7 +31,7 @@ I am interested in developing novel information extraction and fusion techniques
 	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
-	  	<span> Postdoctoral Fellow [February 2020-Present] </span><br/>
+	  	<span> Postdoctoral Fellow [July 2020-June 2021] </span><br/>
 	  	<span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span><br/>
 	</div>
 	<br/>
