@@ -21,7 +21,7 @@ I am interested in developing novel information extraction and fusion techniques
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
 	  	<span> Director, Persist Lab </span> <br/>
-	  	<span> Assistant Professor [February 20xx-Present] </span><br/>
+	  	<span> Assistant Professor [July 2021-Present] </span><br/>
 		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science</a>.</span>
 	</div>
 	<br/>
