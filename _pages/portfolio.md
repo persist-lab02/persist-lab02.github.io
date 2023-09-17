@@ -28,7 +28,7 @@ I am interested in developing novel information extraction and fusion techniques
 </div>
 <br/>
 <div style="text-align: left;">
-	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 200px; height:150px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 150px; height:150px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
 	  	<span> Postdoctoral Fellow [July 2020-June 2021] </span><br/>
