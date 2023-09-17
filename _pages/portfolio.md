@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Overview"
+author_profile: true
 permalink: /portfolio/
 redirect_from: 
   - /about.html
