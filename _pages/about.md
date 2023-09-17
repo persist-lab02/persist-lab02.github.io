@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
 <font color="red" size ="4">This website is under construction. Visit next week please.</font>
-
+ -->
+ 
 <p align="justify">
-We are a dynamic research group in the <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a> at Dartmouth College. Our mission is the seamless integration of intelligence into our daily lives, enabling us to better decipher the intricacies of the virtual and physical worlds surrounding us. We are dedicated to crafting innovative solutions at the intersection of human-AI interaction, natural language processing, and machine learning. Our goal is to decode vast volumes of complex data, ranging from Electronic Health Records (EHR) to social media posts and sensor data, to enhance decision-making processes.
+We are a dynamic research group in the <a href="https://web.cs.dartmouth.edu/">Department of Computer Science</a> at Dartmouth College. Our mission is the seamless integration of intelligence into our daily lives, enabling us to better decipher the intricacies of the virtual and physical worlds surrounding us. We are dedicated to crafting innovative solutions at the intersection of human-AI interaction, natural language processing, and machine learning. Our goal is to decode vast volumes of complex data, ranging from Electronic Health Records (EHR) to social media posts and sensor data, to enhance decision-making processes.<br>
 
 If you are interested in joining Persist Lab, please check our <a href="https://persist-lab02.github.io/pages/recruitment">Openings page</a>.
 </p> 
