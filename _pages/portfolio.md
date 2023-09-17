@@ -12,21 +12,23 @@ I am interested in developing novel information extraction and fusion techniques
   from heterogeneous applications to provide interpretable and personalized decision support. My vision is to advance the fundamental techniques and theories for data-driven and knowledge-integrated information fusion to improve human-in-the-loop intelligent systems.
 </p> 
 
-## Experience and Education
+## Affiliations
 
 <div style="text-align: left;">
-	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 200px; height:200px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Dartmouth College </b> </span><br/>
 	  	<span> Director, Persist Lab </span> <br/>
-	  	<span> Assistant Professor [July 2021-Present] </span><br/>
-		<span> Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science</a>.</span>
+		<span> Assistant Professor, Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: 		none"> Computer Science</a>. </span><br/>
+		<span> Technical Associate Director, <a href="https://c-phai.org/people" style="text-decoration: none"> 		Dartmouth Center for Precision Health and Artificial Intelligence</a>.</span><br/>
+		<span> Faculty Affiliate, <a href="https://www.c4tbh.org/" style="text-decoration: none"> Center for 			Technology and Behavioral Health</a>.</span><br/>
+		<span> Adjunct Faculty, <a href="https://geiselmed.dartmouth.edu/bmds/" style="text-decoration: none"> Department of Biomedical Data Science</a>.</span><br/>
 	</div>
 	<br/>
 </div>
 
 <div style="text-align: left;">
-	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
+	<img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 200px; height:200px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
 		<span> <b> Carnegie Mellon University </b> </span><br/>
 	  	<span> Postdoctoral Fellow [July 2020-June 2021] </span><br/>
@@ -35,6 +37,7 @@ I am interested in developing novel information extraction and fusion techniques
 	<br/>
 </div>
 
+<!---
 <div style="text-align: left;">
 	<img src='/images/logos/UVA_logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
@@ -54,3 +57,4 @@ I am interested in developing novel information extraction and fusion techniques
 	</div>
 	<br/>
 </div>
+--->
