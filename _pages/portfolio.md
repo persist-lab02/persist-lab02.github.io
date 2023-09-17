@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "Overview"
+layout: single
+title: "Bio"
 author_profile: true
 permalink: /portfolio/
 redirect_from: 
   - /about.html
 ---
-<font color="red" size ="4">Will change it appropriately after getting the information from Professor. </font>
-
 <p align="justify">
 I am interested in developing novel information extraction and fusion techniques using applied machine learning with applications in 
   smart health, personalized assistant, and intelligent environments. I build deep semantic inference models of multi-modal data generated 
