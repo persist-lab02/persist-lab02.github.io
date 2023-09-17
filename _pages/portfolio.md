@@ -2,7 +2,8 @@
 layout: archive
 title: "Overview"
 permalink: /portfolio/
-author_profile: true
+redirect_from: 
+  - /about.html
 ---
 <font color="red" size ="4">Will change it appropriately after getting the information from Professor. </font>
 
