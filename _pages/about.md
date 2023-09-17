@@ -25,21 +25,28 @@ We are a dynamic research group in the <a href="https://web.cs.dartmouth.edu/">D
 </font> <br/>
 
 <font color="brown"><i>26 June, 2023</i></font> <br/>
-<font> Parker presented his <a href="https://arxiv.org/pdf/2303.09366.pdf"><font>paper</font></a> in <a href="https://ieeeichi.github.io/ICHI2023/"><font>ICHI-23</font></a>.
+<font> Congratulations to Parker for presenting his <a href="https://arxiv.org/pdf/2303.09366.pdf"><font>paper</font></a> in <a href="https://ieeeichi.github.io/ICHI2023/"><font>ICHI-23</font></a>.
 </font> <br/>
 
 <font color="brown"><i>5 June, 2023</i></font> <br/>
-<font> Joey and Parker presented their papers (<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22140"><font>Paper-1</font></a>, <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22210"><font>Paper-2</font></a>) in <a href="https://www.icwsm.org/2023/index.html/index.html"><font>ICWSM-23</font></a>.
+<font> Congratulations to Joey and Parker for presenting their papers (<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22140"><font>Paper-1</font></a>, <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22210"><font>Paper-2</font></a>) in <a href="https://www.icwsm.org/2023/index.html/index.html"><font>ICWSM-23</font></a>.
 </font> <br/>
 
 <font color="brown"><i>10 September, 2022</i></font> <br/>
 <font> Welcome to our new PhD students, Madhusudan Basak and Omar Sharif!
 </font> <br/>
 
-<font color="brown"><i>21 August, 2023</i></font> <br/>
+<font color="brown"><i>21 August, 2022</i></font> <br/>
 <font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova, who have joined the PersistLab!
 </font> <br/>
 
+<font color="brown"><i>22 May, 2022</i></font> <br/>
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova, who have joined the PersistLab!
+</font> <br/>
+
+<font color="brown"><i>22 May, 2022</i></font> <br/>
+<font> Congratulations to Parker on being named a <a href="https://graduate.dartmouth.edu/academics/programs/phd-innovation-program-dartmouth"><font>Guarini PhD Innovation Fellow</font></a>.
+</font> <br/>
 </div>
 
 ## <font> Resources </font>   
