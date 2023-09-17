@@ -16,17 +16,17 @@ I am interested in developing novel information extraction and fusion techniques
 
 
 <img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 150px; height:150px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
-
+<br>
 <span> <b> Dartmouth College </b> </span><br/>
 <span> Director, Persist Lab </span> <br/>
-<span> Assistant Professor, Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: 		none"> Computer Science</a>. </span><br/>
+<span> Assistant Professor, Department of <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none"> Computer Science</a>. </span><br/>
 <span> Technical Associate Director, <a href="https://c-phai.org/people" style="text-decoration: none"> 		Dartmouth Center for Precision Health and Artificial Intelligence</a>.</span><br/>
 <span> Faculty Affiliate, <a href="https://www.c4tbh.org/" style="text-decoration: none"> Center for 			Technology and Behavioral Health</a>.</span><br/>
 <span> Adjunct Faculty, <a href="https://geiselmed.dartmouth.edu/bmds/" style="text-decoration: none"> Department of Biomedical Data Science</a>, Geisel School of Medicine.</span><br/>
 
 
 <img src='/images/logos/cmu_logo.png' alt='Image not Loading' style='width: 150px; height:150px; float: left; margin-right: 30px; border: 10px; border-radius: 10px;'>
-
+<br>
 <span> <b> Carnegie Mellon University </b> </span><br/>
 <span> Postdoctoral Fellow [July 2020-June 2021] </span><br/>
 <span> School of <a href="https://www.cs.cmu.edu/" style="text-decoration: none"> Computer Science </a>.</span>
