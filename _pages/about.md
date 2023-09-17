@@ -46,7 +46,7 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 
 <font color="brown"><i>22 May, 2022</i></font> <br/>
 <font> Congratulations to Parker on being named a <a href="https://graduate.dartmouth.edu/academics/programs/phd-innovation-program-dartmouth"><font>Guarini PhD Innovation Fellow</font></a>.
-</font> <br/>
+</font>
 </div>
 
 ## <font> Resources </font>   
