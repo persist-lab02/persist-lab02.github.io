@@ -1,24 +1,24 @@
 ---
 layout: single
-title: "Research Overview"
+title: "Research Interests"
 author_profile: true
 permalink: /research/
 redirect_from: 
   - /about.html
 ---
 
-
-We are a dynamic research group at the [Department of Computer Science at Dartmouth College](https://web.cs.dartmouth.edu/). Our aim is to explore and develop novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistant, and intelligent environments.
-
+Machine Learning, Natural   Language   Processing, Time series modeling and forecasting, Smart Health, Intelligent Assistants
 
 ## Research Projects
 
 <div style="text-align: justify">
 <img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 300px; float: left;margin-right: 30px; border: 10px'>
 
-<span> <b> Gene discovery in autism spectrum disorder and other developmental disorders </b> </span><br/>
+<span> <b> Sensemaking of Online Health Information </b> </span><br/>
 <div style="text-align: justify">
-Exome sequencing has revolutionized our ability to find the genes associated with autism spectrum disorder (ASD) and other severe developmental disorders. Four papers, published concurrently in 2012, showed an excess of de novo mutations that disrupt genes in cases compared to controls and Dr. Sanders, working in Dr. State's lab at Yale, was the first author of one of these. This paper also demonstrated that observing disruptive de novo mutations in the same gene across multiple cases could be used to establish genome-wide association with ASD, and this method was used to identify the voltage-gated sodium channel SCN2A as one of the most frequent causes of ASD. 
+Google fields a staggering 1 billion health questions daily, with 89% of Americans consulting Google before their doctors. Yet, challenges persist in accessing and making sense of online health information, especially for those dealing with chronic conditions. Our project's goal is to develop a personalized web app that acts as an intelligent health assistant to personalize and improve online sense-making. This app will empower users to highlight and annotate relevant health information during web searches. It will also facilitate on-the-spot searches and recommendations tailored to health topics, keywords, and information quality. Behind this innovation lies a robust framework of Natural Language Processing (NLP) models and algorithms. <br>
+
+Our NLP solutions include classifiers to distinguish actionable health insights from general facts, health topic extraction, and the characterization of information similarity and divergence. We've curated a dataset of 25,000+ health advice pieces from certified medical sources, spanning 15 chronic diseases. This data drives the development and evaluation of our novel solutions.
 </div>
 </div>
 
@@ -26,10 +26,11 @@ Exome sequencing has revolutionized our ability to find the genes associated wit
 
 <div style="text-align: justify">
     <img src='/images/pics/group.jpg' alt='Image not Loading' style='width: 300px; float: left;margin-right: 30px; border: 10px'>
-    <span> <b> Understanding the role of ASD genes </b> </span><br/>
+    <span> <b>  Unlocking   the   Patient   Voice:   Understanding Treatment Needs for Opioid Use Disorder (OUD) on Social
+Media</b> </span><br/>
     
   <div style="text-align: justify">
-    The genes discovered through exome sequencing provide an entree into the biology of ASD, hopefully as a foundation for developing theraputics. The Sanders   Lab takes two research approaches: 1) To consider ASD-associated genes en masse to look for patterns of convergence [State MW, Šestan N Science 2012]      (https://www.ncbi.nlm.nih.gov/pubmed/22984058); 2) To investigate the genes with the strongest evidence of ASD association, such as SCN2A in depth.
+The world of OUD treatment is rapidly evolving, with maintenance medications like extended-release naltrexone, buprenorphine, suboxone, and methadone offering promising solutions. However, this dynamic landscape often leaves patients with unanswered questions and knowledge gaps about their treatment options. Unfortunately, due to stigma, limited access, trust issues, or resource constraints, many individuals turn to social media for peer support and information rather than seeking guidance from healthcare providers. Although peer support is critical for recovery, online discourse on OUD treatment is rife with unverified and divergent information and misinformation. We aim to address these challenges while systematically characterizing and quantifying self-reported treatment needs related to OUD on Reddit. We aim to provide new evidence and actionable insights into patients' treatment needs by harnessing the power of large-scale, real-world patient-reported data. We are developing novel methods leveraging human-LLM interaction, NLP, and qualitative study to unveil patient voices, understand their experience, and unmask the context of their information-seeking.
   </div>
 </div>
 
