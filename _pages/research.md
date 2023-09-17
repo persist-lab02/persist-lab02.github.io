@@ -3,8 +3,6 @@ layout: single
 title: "Research Interests"
 author_profile: true
 permalink: /research/
-redirect_from: 
-  - /about.html
 ---
 
 Machine Learning, Natural   Language   Processing, Time series modeling and forecasting, Smart Health, Intelligent Assistants
