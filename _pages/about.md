@@ -43,10 +43,6 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 </font> <br/>
 
 <font color="brown"><i>22 May, 2022</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova, who have joined the PersistLab!
-</font> <br/>
-
-<font color="brown"><i>22 May, 2022</i></font> <br/>
 <font> Congratulations to Parker on being named a <a href="https://graduate.dartmouth.edu/academics/programs/phd-innovation-program-dartmouth"><font>Guarini PhD Innovation Fellow</font></a>.
 </font> <br/>
 </div>
