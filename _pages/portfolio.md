@@ -14,8 +14,6 @@ I am interested in developing novel information extraction and fusion techniques
 
 ## Experience and Education
 
----
-
 <div style="text-align: left;">
 	<img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 100px; height:100px; float: left;margin-right: 30px; border: 10px; border-radius: 10px;'>
 	<div style="text-align: left">
