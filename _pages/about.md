@@ -18,38 +18,26 @@ We are a dynamic research group in the <a href="https://web.cs.dartmouth.edu/">D
 <div style="height: 450px; overflow: auto;">
 
 <font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Congratulations, Joey, for successfully passing his Research Presentation Exam (RPE).</font> <br/>
+<font> Congratulations to Joey for successfully passing his Research Presentation Exam (RPE).</font> <br/>
 
 <font color="brown"><i>15 July, 2023</i></font> <br/>
-<font> One <a href="https://arxiv.org/abs/2301.11508"><font>paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>. Congratulations to Will, Omar, Madhu and other authors!
+<font> One <a href="https://arxiv.org/abs/2301.11508"><font>paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html">ICWSM-2024</a>. Congratulations to Will, Omar, Madhu, and other authors!
 </font> <br/>
 
-<font color="brown"><i>19 Feb, 2021</i></font> <br/>
-<font> Our new paper, A Review of Cognitive Assistants for Healthcare is published in <a href="https://dl.acm.org/doi/10.1145/3419368"> ACM Computing Surveys</a>.
+<font color="brown"><i>26 June, 2023</i></font> <br/>
+<font> Parker presented his <a href="https://arxiv.org/pdf/2303.09366.pdf"><font>paper</font></a> in <a href="https://ieeeichi.github.io/ICHI2023/"><font>ICHI-23</font></a>.
 </font> <br/>
 
-<font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+<font color="brown"><i>5 June, 2023</i></font> <br/>
+<font> Joey and Parker presented their papers (<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22140"><font>Paper-1</font></a>, <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22210"><font>Paper-2</font></a>) in <a href="https://www.icwsm.org/2023/index.html/index.html"><font>ICWSM-23</font></a>.
 </font> <br/>
 
-<font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
-</font> <br/>
-
-<font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+<font color="brown"><i>10 September, 2022</i></font> <br/>
+<font> Welcome to our new PhD students, Madhusudan Basak and Omar Sharif!
 </font> <br/>
 
 <font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
-</font> <br/>
-
-<font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
-</font> <br/>
-
-<font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova who have joined the PersistLab!
+<font> Welcome to Lutz Lu, Vasavi Garimella, Dae Lim Chung, Vasavi Garimella, Garrett Johnston, Burke Jaeger, Love Tsai, Zhanel Nugmanova, who have joined the PersistLab!
 </font> <br/>
 
 </div>
