@@ -23,8 +23,8 @@ If you are interested, please contact **Prof. Sarah Preum** directly using the d
 If you are not currently at Dartmouth College but are interested in our research, please apply to our [PhD program](https://web.cs.dartmouth.edu/news/2020/10/join-our-phd-program) and mention **Prof. Sarah Preum** is one of the preferences you are interested in working with.
 
 
-## Master and Undergraduate students
- If you are a Dartmouth MS or Undergraduate student and are interested in the Persist Lab's projects, please contact **Prof. Sarah Preum** directly using the details on her [Dartmouth profile page](https://web.cs.dartmouth.edu/people/sarah-masud-preum) with your CV.
+## Masters and Undergraduate students
+ If you are a Dartmouth Masters or Undergraduate student and are interested in the Persist Lab's projects, please contact **Prof. Sarah Preum** directly using the details on her [Dartmouth profile page](https://web.cs.dartmouth.edu/people/sarah-masud-preum) with your CV.
 
 * Please include **'interested in joining Persist Lab'** in the subject header of your email. 
  
