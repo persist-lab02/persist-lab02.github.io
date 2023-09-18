@@ -71,6 +71,7 @@ Our specific goals are as follows: (i) identify specific triggers within patient
   </div>
 </div>
 
+<!---
 ## Funding
 We are grateful for funding from the <a href=""  style="text-decoration: none;">NIH</a> and the <a href=""  style="text-decoration: none;"></a>, the <a href=""  style="text-decoration: none;" >Dartmouth</a>, and the <a href=""  style="text-decoration: none;" >Autism Science Foundation</a>.
 
@@ -80,3 +81,4 @@ We are grateful for funding from the <a href=""  style="text-decoration: none;">
   <img src='/images/logos/Logo_SFARI.png' alt='Image not Loading' style='width: 250px; float: left; margin:15px;  border: 10px'>
   <img src='/images/logos/Dartmouth_Logo.png' alt='Image not Loading' style='width: 250px; float: left; margin:15px;  border: 10px'>
 </div>
+--->
