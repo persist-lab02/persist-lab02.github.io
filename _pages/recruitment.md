@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for your interest in joining the Persist Lab. 
+Thank you for your interest in joining the Persist Lab!
 
-We are always looking for new group members with passion, talent, and grit who are interested in exploring and developing novel information extraction and fusion techniques using applied machine learning with applications in smart health, personalized assistance, and intelligent environments.
+We are always looking for individuals with talent and persistence (as the name suggests!) who are interested in cutting-edge research.
 
 <!---
 ## Postdoctoral researchers
@@ -20,7 +20,7 @@ If you are interested, please contact **Prof. Sarah Preum** directly using the d
 
 
 ## Applications for PhD
-If you are not currently at Dartmouth College but are interested in our research, please apply to our [PhD program](https://web.cs.dartmouth.edu/news/2020/10/join-our-phd-program) and mention **Prof. Sarah Preum** is one of the preferences you are interested in working with.
+If you are interested in our research, please apply to our [PhD program](https://web.cs.dartmouth.edu/news/2020/10/join-our-phd-program) and mention **Prof. Sarah Preum** in your application.
 
 
 ## Masters and Undergraduate students
