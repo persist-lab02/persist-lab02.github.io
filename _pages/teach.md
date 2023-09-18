@@ -1,8 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Graduate & Undergraduate Courses"
 permalink: /teach/
 author_profile: true
+redirect_from: 
+  - /about.html
 ---
 
 * <a href="https://dartmouth.smartcatalogiq.com/current/orc/departments-programs-undergraduate/computer-science/cosc-computer-science-undergraduate/cosc-74/"> Machine Learning and Statistical Data Analysis</a> *[Fall 2023, Spring 2022]*
