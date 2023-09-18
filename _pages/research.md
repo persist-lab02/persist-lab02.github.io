@@ -10,7 +10,7 @@ Machine Learning, Natural   Language   Processing, Time series modeling and fore
 ## Research Projects
 
 <div style="text-align: justify">
-<img src='/images/logos/pj1.png' alt='Image not Loading' style='width: 300px; height:300px; float: left;margin-right: 30px; border: 10px'>
+<img src='/images/logos/pj1.png' alt='Image not Loading' style='width: 320px; height:240px; float: left;margin-right: 30px; border: 10px'>
 
 <span> <b> Sensemaking of Online Health Information </b> </span><br/>
 <div style="text-align: justify">
@@ -23,7 +23,7 @@ Our NLP solutions include classifiers to distinguish actionable health insights 
 ---
 
 <div style="text-align: justify">
-    <img src='/images/logos/pj2.png' alt='Image not Loading' style='width: 300px; height:300px; float: left;margin-right: 30px; border: 10px'>
+    <img src='/images/logos/pj2.png' alt='Image not Loading' style='width: 320px; height:240px; float: left;margin-right: 30px; border: 10px'>
     <span> <b>  Unlocking   the   Patient   Voice:   Understanding Treatment Needs for Opioid Use Disorder (OUD) on Social
 Media</b> </span><br/>
     
@@ -49,7 +49,7 @@ We focus on deciphering these "system-focused" aspects, specifically how clinici
 ---
 
 <div style="text-align: justify">
-    <img src='/images/logos/pj4.png' alt='Image not Loading' style='width: 300px; height:300px; float: left;margin-right: 30px; border: 10px'>
+    <img src='/images/logos/pj4.png' alt='Image not Loading' style='width: 320px; height:240px; float: left;margin-right: 30px; border: 10px'>
   <span> <b> Improving Treatment Adherence Through Personalized Sensing and Prediction</b> </span><br/>
     
   <div style="text-align: justify">
@@ -61,7 +61,7 @@ We focus on deciphering these "system-focused" aspects, specifically how clinici
 ---
 
 <div style="text-align: justify">
-    <img src='/images/logos/pj5.png' alt='Image not Loading' style='width: 300px; height:300px; float: left;margin-right: 30px; border: 10px'>
+    <img src='/images/logos/pj5.png' alt='Image not Loading' style='width: 320px; height:240px; float: left;margin-right: 30px; border: 10px'>
     <span> <b> Decoding Patient-provider interactions for telemedical triage</b> </span><br/>
     
   <div style="text-align: justify">
