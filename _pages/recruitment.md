@@ -24,7 +24,7 @@ If you are not currently at Dartmouth College but are interested in our research
 
 
 ## Master and Undergraduate students
- If you are a Dartmouth Master or Undergraduate student and are interested in the PersistLab's projects, please contact **Prof. Sarah Preum** directly using the details on her [Dartmouth profile page](https://web.cs.dartmouth.edu/people/sarah-masud-preum) with your CV.
+ If you are a Dartmouth MS or Undergraduate student and are interested in the Persist Lab's projects, please contact **Prof. Sarah Preum** directly using the details on her [Dartmouth profile page](https://web.cs.dartmouth.edu/people/sarah-masud-preum) with your CV.
 
 * Please include **'interested in joining Persist Lab'** in the subject header of your email. 
  
