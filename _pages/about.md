@@ -41,6 +41,11 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 <font> Congratulations to Joey and Parker for presenting their papers (<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22140" style="text-decoration: none"><font>Paper-1</font></a>, <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22210" style="text-decoration: none"><font>Paper-2</font></a>) in <a href="https://www.icwsm.org/2023/index.html/index.html" style="text-decoration: none"><font>ICWSM-23</font></a>.
 </font> <br/>
 
+<font color="brown"><i>12 September, 2022</i></font> <br/>
+<font> Congratulations to Omar for being awarded the **Presidential Graduate Fellowship** from Dartmouth. 
+</font> <br/>
+
+
 <font color="brown"><i>10 September, 2022</i></font> <br/>
 <font> Welcome to our new PhD students, Madhusudan Basak and Omar Sharif!
 </font> <br/>
