@@ -42,7 +42,7 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 </font> <br/>
 
 <font color="brown"><i>12 September, 2022</i></font> <br/>
-<font> Congratulations to Omar for being awarded the **Presidential Graduate Fellowship** from Dartmouth. 
+<font> Congratulations to Omar for being awarded the <b>Presidential Graduate Fellowship</b> from Dartmouth. 
 </font> <br/>
 
 
