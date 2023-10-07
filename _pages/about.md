@@ -26,6 +26,10 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 
 <div style="height: 450px; overflow: auto;">
 
+<font color="brown"><i>06 October, 2023</i></font> <br/>
+<font> Two papers accepted at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey, Parker, and Omar! Papers and code will be released soon. 
+</font> <br/>
+
 <font color="brown"><i>21 August, 2023</i></font> <br/>
 <font> Congratulations to Joey for successfully passing his Research Presentation Exam (RPE).</font> <br/>
 
