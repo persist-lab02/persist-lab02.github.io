@@ -25,9 +25,13 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 ## <font> News and Announcements </font>
 
 <div style="height: 450px; overflow: auto;">
-
+  
+<font color="brown"><i>23 October, 2023</i></font> <br/>
+<font> One papers accepted in <a href="https://gem-benchmark.com/workshop" style="text-decoration: none">GEM Workshop</a> at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey and other co-authors. 
+</font> <br/>
+  
 <font color="brown"><i>06 October, 2023</i></font> <br/>
-<font> Two papers accepted at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey, Parker, and Omar! Papers and code will be released soon. 
+<font> Two papers accepted at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey, Parker, and Omar! Papers and codes will be released soon. 
 </font> <br/>
 
 <font color="brown"><i>21 August, 2023</i></font> <br/>
