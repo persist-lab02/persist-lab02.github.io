@@ -21,14 +21,17 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 ## <font> News and Announcements </font>
 <div style="height: 450px; overflow: auto;">
 
+<font color="brown"><i>October, 2023</i></font> <br/>
+<font> 2 papers accepted to EMNLP 2023 from our group! Congratulations Joey, Parker, and Omar!</font> <br/>
+
 <font color="brown"><i>20 October, 2023</i></font> <br/>
-<font> Our paper titled "Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity" was just accepted to the Generation, Evaluation & Metrics (GEM) Workshop co-located with EMNLP! Congratulations Joey, Parker, and Omar!</font> <br/>
+<font> Our paper titled "Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity" was just accepted to the Generation, Evaluation & Metrics (GEM) Workshop co-located with EMNLP 2023! Congratulations Joey, Parker, and Omar!</font> <br/>
 
 <font color="brown"><i>6 October, 2023</i></font> <br/>
-<font> Our paper titled "Statistical Depth for Ranking and Characterizing Transformer-Based Text Embeddings" was just accepted to EMNLP! Congratulations Parker!</font> <br/>
+<font> Our paper titled "Statistical Depth for Ranking and Characterizing Transformer-Based Text Embeddings" was just accepted to EMNLP 2023! Congratulations Parker!</font> <br/>
 
 <font color="brown"><i>6 October, 2023</i></font> <br/>
-<font> Our paper titled "Chain-of-Thought Embeddings for Stance Detection on Social Media" was just accepted to EMNLP! Congratulations Joey, and Omar!</font> <br/>
+<font> Our paper titled "Chain-of-Thought Embeddings for Stance Detection on Social Media" was just accepted to EMNLP 2023! Congratulations Joey, and Omar!</font> <br/>
 
 <font color="brown"><i>21 August, 2023</i></font> <br/>
 <font> Congratulations to Joey for successfully passing his Research Presentation Exam (RPE).</font> <br/>
