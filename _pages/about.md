@@ -25,9 +25,17 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 ## <font> News and Announcements </font>
 
 <div style="height: 450px; overflow: auto;">
+
+<font color="brown"><i>17 January, 2024</i></font> <br/>
+<font> One paper on Multimodal Learning accepted at <a href="https://sites.google.com/view/eacl2024srw" style="text-decoration: none">EACL-2024 SRW</a>. Congratulations to Eftekhar, Omar, and other co-authors. 
+</font> <br/>
+
+<font color="brown"><i>09 December, 2023</i></font> <br/>
+<font> One paper accepted at <a href="https://aaai.org/aaai-conference/" style="text-decoration: none">AAAI-2024</a>. Congratulations to Omar, Madhu, and other co-authors. 
+</font> <br/>
   
 <font color="brown"><i>23 October, 2023</i></font> <br/>
-<font> One papers accepted in <a href="https://gem-benchmark.com/workshop" style="text-decoration: none">GEM Workshop</a> at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey and other co-authors. 
+<font> One paper accepted in <a href="https://gem-benchmark.com/workshop" style="text-decoration: none">GEM Workshop</a> at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey and other co-authors. 
 </font> <br/>
   
 <font color="brown"><i>06 October, 2023</i></font> <br/>
