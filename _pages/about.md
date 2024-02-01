@@ -21,8 +21,11 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 ## <font> News and Announcements </font>
 <div style="height: 450px; overflow: auto;">
 
+<font color="brown"><i>9 December, 2023</i></font> <br/>
+<font> Our paper accepted at <a href="https://aaai.org/aaai-conference/" style="text-decoration: none">AAAI-2024</a>! Congratulations to Omar and other co-authors.</font> <br/>
+
 <font color="brown"><i>October, 2023</i></font> <br/>
-<font> <b>2 papers accepted to EMNLP 2023 from our group!</b></font> <br/>
+<font> <b>2 papers </b> accepted to EMNLP 2023 from our group!</font> <br/>
 
 <font color="brown"><i>20 October, 2023</i></font> <br/>
 <font> Our paper titled "Text Encoders Lack Knowledge: Leveraging Generative LLMs for Domain-Specific Semantic Textual Similarity" was just accepted to the Generation, Evaluation & Metrics (GEM) Workshop co-located with EMNLP 2023! Well done Joey, Parker, and Omar!</font> <br/>
